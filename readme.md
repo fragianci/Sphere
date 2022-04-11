@@ -1,4 +1,4 @@
-# Three.js Starter
+# Sphere made with three.js
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
